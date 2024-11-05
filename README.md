@@ -21,6 +21,6 @@ The `MediaWiki` Action API is a web service that allows access to some wiki feat
 
 ## <p align="left" style="color: #80cbc4;"> Screenshot Project 💻 </p>
 
-🔶 [Project Website](https://alejandro-lopez.futuretecware.com/MediaWiki-API/index.html)
+🔶 [Project Website](https://alejandro-190107.github.io/MediaWiki-API/)
 
 ![Screenshot](assets/img/Screenshot.png)
